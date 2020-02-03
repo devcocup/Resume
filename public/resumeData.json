@@ -1,101 +1,93 @@
 {
   "main": {
-    "name":"Tim Baker",
-    "occupation":"(Your Occupation Here)",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
-    "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "name":"Enea Dume",
+    "occupation":"Full Stack Developer",
+    "bio":"I am a full stack developer with a vast array of knowledge in many different front end and back end languages, responsive frameworks, databases, and best code practices. My objective is simply to be the best web developer that I can be and to contribute to the technology industry all that I know and can do. I am dedicated to perfecting my craft by learning from more seasoned developers, remaining humble, and continuously making strides to learn all that I can about development.",
+    "image":"profilepic.png",
+    "description":"Experienced Full Stack Developer with 6 years in the industry and high-level proficiency in the Web and Mobile application development.",
+    "contactmessage":"If you need the assistance in above area, Please contact me.",
+    "email": "enea.dume2017@gmail.com",
+    "phone": "(+355) 693484848",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
-    },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
-    "social":[
-      {
-        "name":"facebook",
-        "url":"http://facebook.com/tim.baker.906",
-        "className":"fa fa-facebook"
-      },
-      {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
-        "name":"google-plus",
-        "url":"http://googleplus.com/tbakerx",
-        "className":"fa fa-google-plus"
-      },
-      {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
-        "className":"fa fa-linkedin"
-      },
-      {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
-      },
-      {
-        "name":"github",
-        "url":"http://github.com/tbakerx",
-        "className":"fa fa-github"
-      },
-      {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
-      }
-    ]
+      "street":"\"At Stath Melani\" street, nr 6, Kombinat",
+      "city":"Tirana",
+      "country":"Albania",
+      "zip": "1001"
+    }
   },
   "resume":{
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      },
-      {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"University of Tirana",
+        "degree":"Bachelor of Applied Science",
+        "graduated":"April 2017",
+        "description":""
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"AMoligix shpk",
+        "title":"Full Stack Developer ",
+        "years":"June 2018 - May 2019",
+        "description":"",
+        "tasks":[
+          "Collaborates with app development team which includes Product Manager, Program Manager, Software Engineer, Quality Assurance, and Market Researcher in identifying software problems, testing methods, and best solutions.",
+          "Actively participates and engages the Software Support team in resolving production issues.",
+          "Improves and designs monitoring systems in order to address issues with systems stability and quality of data.",
+          "Conceptualizes and designs testing protocols for the purpose of locating issues within the system."
+        ]
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"ATIS shpk",
+        "title":"Javascript Engineer",
+        "years":"July 2017 - June 2018",
+        "description":"",
+        "tasks": [
+          "Developed app-solutions using a variety of languages, frameworks, and platforms such as Javascript, SQL, and HTML.",
+          "Collaborated with a team of healthcare experts to design and develop a SaaS application.",
+          "Worked closely in the planning, design, and delivery of software products and services.",
+          "Presented software design issues, questions, and suggestions for the purpose of arriving at alternative courses of action.",
+          "Provided assistance to Customer Support when troubleshooting technical issues of clients."
+        ]
       }
     ],
     "skills":[
       {
         "name":"Git",
-        "level":"60%"
+        "level":"90%"
       },
       {
-        "name":"Illustrator",
-        "level":"55%"
+        "name":"React Native",
+        "level":"95%"
       },
       {
         "name":"ReactJs",
-        "level":"50%"
+        "level":"80%"
+      },
+      {
+        "name":"NodeJS",
+        "level":"90%"
+      },
+      {
+        "name":"Angular",
+        "level":"81%"
+      },
+      {
+        "name":"Bootstrap",
+        "level":"83%"
+      },
+      {
+        "name":"Ruby on Rails",
+        "level":"86%"
+      },
+      {
+        "name":"Python",
+        "level":"76%"
+      },
+      {
+        "name":"Django",
+        "level":"66%"
       },
       {
         "name":"CSS",
@@ -107,57 +99,93 @@
       },
       {
         "name":"VueJs",
-        "level":"50%"
+        "level":"60%"
+      },
+      {
+        "name":"PostgreSQL",
+        "level":"80%"
       },
       {
         "name":"MongoDB",
         "level":"80%"
+      },
+      {
+        "name":"Swift",
+        "level":"76%"
+      },
+      {
+        "name":"Objective-C",
+        "level":"60%"
+      },
+      {
+        "name":"Java",
+        "level":"56%"
+      },
+      {
+        "name":"ionic framework",
+        "level":"86%"
       }
     ]
   },
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"AMPM HQ",
+        "category":"",
+        "image":"ampm.PNG",
+        "url":"https://ampm.fit/"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"iDigit",
+        "category":"",
+        "image":"iDigits.PNG",
+        "url":"https://www.idigit.ch/"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title":"Ezzy Life",
+        "category":"",
+        "image":"ezzy_life.PNG",
+        "url":"https://ezzylife.com/"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Scribd",
+        "category":"",
+        "image":"scribd.PNG",
+        "url":"https://www.scribd.com/"
       },
       {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
-      }
+        "title":"Handmade Silver Jewellery",
+        "category":"",
+        "image":"handmade.PNG",
+        "url":"https://www.lindamacdonaldjewellery.com/"
+      },
+      {
+        "title":"Vacation Rentals",
+        "category":"",
+        "image":"vacation.PNG",
+        "url":"https://www.vacasa.com/"
+      },
+      {
+        "title":"Friedlander Group",
+        "category":"",
+        "image":"friedlandergroup.PNG",
+        "url":"https://www.friedlandergroup.com/"
+      }  
     ]
   },
   "testimonials":{
     "testimonials":[
       {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
+        "text":"Very professional and responsible developer. He delivered the project on time and budget. He is also communicating very well and he is kind. He is mostly available and not creating any problems. I will definitely work with him again and would recommend to work with him to everyone.",
+        "user":"Gbesler, Turkey"
       },
       {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
+        "text":"Enea is very competent & proficient in his skillset & he is a fast worker working on very short notice. He is very good at communicating & clarifying project specs & deliverables & I would highly recommend him & work with him again!",
+        "user":"Tutee, Ireland"
+      },
+      {
+        "text":"AMAZING FREELANCER. Best I have ever worked with. Gave me an amazing solution to my problem. Delivered very early. Always communicating. He is truly an expert in what he does. Will definitely hire again. I will also recommend anyone to hire him. Really great to work with him. Thank you once again.",
+        "user":"Malka, United Arab Emirates"
       }
     ]
   }

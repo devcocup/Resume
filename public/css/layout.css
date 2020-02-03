@@ -211,7 +211,7 @@ ul#nav li.current a { color: #F06000; }
    height: 120px;
    border-radius: 100%;
 }
-#about .contact-details { width: 41.66667%; }
+#about .contact-details { width: 50%; }
 #about .download {
    width: 58.33333%;
    padding-top: 6px;
@@ -874,7 +874,7 @@ call-to-action .button {
    height: auto;
    display: inline-block;
 	border-radius: 3px;
-   margin-left: 26%;
+   margin-left: 15%;
 }
 #contact button.submit:hover {
 	color: #0D0D0D;
@@ -903,7 +903,9 @@ call-to-action .button {
    display: none;
    position: relative;
    left: 18px;
-   top: 17px;
+}
+.row .eight {
+   width: 100%;
 }
 
 
