@@ -11,14 +11,17 @@ on:
         required: true
 
 jobs:
-  build:
-    runs-on: ubuntu-latest
+  create-tag:
+    runs-on: ubuntu-18.04
+    
     steps:
-    - uses: actions/checkout@v2
-    - name: Bump version and push Tag
-      uses: negz/create-tag@v1
-      env:
-        version: ${{ github.event.inputs.version }}
-        message: ${{ github.event.inputs.message }}
-        token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Checkout
+        uses: actions/checkout@v2
+      
+      - name: Bump version and push Tag
+        uses: negz/create-tag@v1
+        with:
+          version: ${{ github.event.inputs.version }}
+          message: ${{ github.event.inputs.message }}
+          token: ${{ secrets.GITHUB_TOKEN }}
         
